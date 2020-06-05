@@ -26,6 +26,9 @@
 #include "heap.cpp"
 #include<iterator>
 #include<algorithm>
+#include "mainwindow.h"
+#include <QApplication>
+#include <QDebug>
 using std::string;
 using std::cin;
 using std::cout;
@@ -120,16 +123,16 @@ struct prescription
 };
 
 
-void addNewDoctor(void);
-void addNewIcu(Icu* list);
-void viewDoctorList(doctor* list);
-void displayDoctorInfo(doctor* list , int doctor_num);
-void viewIcuList(Icu* list);
-void displayIcuInfo(Icu* list , int Icu_num);
-void addPatient(int Icu_num);
-void viewPatientList(int Icu_num);
-void servicePatient_stack(int Icu_num , int doctor_num , int hours);
-void servicePatient_heap(int Icu_num , int doctor_num , int hours);
-void displayFullPatientInfo(patient* ppatient);
+void addNewDoctor_function(void);
+void addNewIcu_function(Icu* list);
+void viewDoctorList_function(doctor* list);
+void displayDoctorInfo_function(doctor* list , int doctor_num);
+void viewIcuList_function(Icu* list);
+void displayIcuInfo_function(Icu* list , int Icu_num);
+void addPatient_function(int Icu_num);
+void viewPatientList_function(int Icu_num);
+void servicePatient_stack_function(int Icu_num , int doctor_num , int hours);
+void servicePatient_heap_function(int Icu_num , int doctor_num , int hours);
+void displayFullPatientInfo_function(patient* ppatient);
 
 #endif

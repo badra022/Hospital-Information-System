@@ -13,10 +13,80 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
-  <widget class="QWidget" name="centralwidget"/>
-  <widget class="QMenuBar" name="menubar"/>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>520</y>
+      <width>89</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Exit</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuNew">
+    <property name="title">
+     <string>New</string>
+    </property>
+    <addaction name="actionnewPatient"/>
+    <addaction name="actionnewDoctor"/>
+    <addaction name="actionnewIcu"/>
+    <addaction name="actionnewPrescription"/>
+   </widget>
+   <addaction name="menuNew"/>
+  </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionnewPatient">
+   <property name="text">
+    <string>newPatient</string>
+   </property>
+  </action>
+  <action name="actionnewDoctor">
+   <property name="text">
+    <string>newDoctor</string>
+   </property>
+  </action>
+  <action name="actionnewIcu">
+   <property name="text">
+    <string>newIcu</string>
+   </property>
+  </action>
+  <action name="actionnewPrescription">
+   <property name="text">
+    <string>newPrescription</string>
+   </property>
+  </action>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>717</x>
+     <y>547</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>689</x>
+     <y>492</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
 </ui>

@@ -163,6 +163,114 @@ Code_autogen/mocs_compilation.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.s
 .PHONY : Code_autogen/mocs_compilation.cpp.s
 
+addnewdoctor.o: addnewdoctor.cpp.o
+
+.PHONY : addnewdoctor.o
+
+# target to build an object file
+addnewdoctor.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewdoctor.cpp.o
+.PHONY : addnewdoctor.cpp.o
+
+addnewdoctor.i: addnewdoctor.cpp.i
+
+.PHONY : addnewdoctor.i
+
+# target to preprocess a source file
+addnewdoctor.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewdoctor.cpp.i
+.PHONY : addnewdoctor.cpp.i
+
+addnewdoctor.s: addnewdoctor.cpp.s
+
+.PHONY : addnewdoctor.s
+
+# target to generate assembly for a file
+addnewdoctor.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewdoctor.cpp.s
+.PHONY : addnewdoctor.cpp.s
+
+addnewicu.o: addnewicu.cpp.o
+
+.PHONY : addnewicu.o
+
+# target to build an object file
+addnewicu.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewicu.cpp.o
+.PHONY : addnewicu.cpp.o
+
+addnewicu.i: addnewicu.cpp.i
+
+.PHONY : addnewicu.i
+
+# target to preprocess a source file
+addnewicu.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewicu.cpp.i
+.PHONY : addnewicu.cpp.i
+
+addnewicu.s: addnewicu.cpp.s
+
+.PHONY : addnewicu.s
+
+# target to generate assembly for a file
+addnewicu.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewicu.cpp.s
+.PHONY : addnewicu.cpp.s
+
+addnewpatient.o: addnewpatient.cpp.o
+
+.PHONY : addnewpatient.o
+
+# target to build an object file
+addnewpatient.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewpatient.cpp.o
+.PHONY : addnewpatient.cpp.o
+
+addnewpatient.i: addnewpatient.cpp.i
+
+.PHONY : addnewpatient.i
+
+# target to preprocess a source file
+addnewpatient.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewpatient.cpp.i
+.PHONY : addnewpatient.cpp.i
+
+addnewpatient.s: addnewpatient.cpp.s
+
+.PHONY : addnewpatient.s
+
+# target to generate assembly for a file
+addnewpatient.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewpatient.cpp.s
+.PHONY : addnewpatient.cpp.s
+
+addnewprescription.o: addnewprescription.cpp.o
+
+.PHONY : addnewprescription.o
+
+# target to build an object file
+addnewprescription.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewprescription.cpp.o
+.PHONY : addnewprescription.cpp.o
+
+addnewprescription.i: addnewprescription.cpp.i
+
+.PHONY : addnewprescription.i
+
+# target to preprocess a source file
+addnewprescription.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewprescription.cpp.i
+.PHONY : addnewprescription.cpp.i
+
+addnewprescription.s: addnewprescription.cpp.s
+
+.PHONY : addnewprescription.s
+
+# target to generate assembly for a file
+addnewprescription.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/addnewprescription.cpp.s
+.PHONY : addnewprescription.cpp.s
+
 database.o: database.cpp.o
 
 .PHONY : database.o
@@ -311,6 +419,18 @@ help:
 	@echo "... Code_autogen/mocs_compilation.o"
 	@echo "... Code_autogen/mocs_compilation.i"
 	@echo "... Code_autogen/mocs_compilation.s"
+	@echo "... addnewdoctor.o"
+	@echo "... addnewdoctor.i"
+	@echo "... addnewdoctor.s"
+	@echo "... addnewicu.o"
+	@echo "... addnewicu.i"
+	@echo "... addnewicu.s"
+	@echo "... addnewpatient.o"
+	@echo "... addnewpatient.i"
+	@echo "... addnewpatient.s"
+	@echo "... addnewprescription.o"
+	@echo "... addnewprescription.i"
+	@echo "... addnewprescription.s"
 	@echo "... database.o"
 	@echo "... database.i"
 	@echo "... database.s"

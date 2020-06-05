@@ -76,7 +76,7 @@ void Icu::displayPatients_stack()
      this->patientsList.TraverseQueue(&displayPatientName);
 }
 
-void addNewDoctor(doctor* list)
+void addNewDoctor_function(doctor* list)
 {
   /* using the doctor's list we will fill the data of the available seat */
   int i = 0;
@@ -100,7 +100,7 @@ void addNewDoctor(doctor* list)
   cin >> list[i].degree;
 }
 
-void viewDoctorList(doctor* list)
+void viewDoctorList_function(doctor* list)
 {
      /* if the first doctor is null then there's no doctors in the list */
   if(list[0].name == "null")
@@ -116,7 +116,7 @@ void viewDoctorList(doctor* list)
   }
 }
 
-void displayDoctorInfo(doctor* list , int i)
+void displayDoctorInfo_function(doctor* list , int i)
 {
      /* displaying the info of the doctor with certain index in the list */
   cout << "doctor's name: " << list[i].name << "\n";
@@ -128,7 +128,7 @@ void displayDoctorInfo(doctor* list , int i)
 }
 
 
-void addNewIcu(Icu* list)
+void addNewIcu_function(Icu* list)
 {
   /* using the Icu's list we will fill the data of the available seat */
   int i = 0;
@@ -146,7 +146,7 @@ void addNewIcu(Icu* list)
   cin >> list[i].bed;
 }
 
-void viewIcuList(Icu* list)
+void viewIcuList_function(Icu* list)
 {
   if(list[0].name == "null")
   {
@@ -160,7 +160,7 @@ void viewIcuList(Icu* list)
   }
 }
 
-void displayIcuInfo(Icu* list , int i)
+void displayIcuInfo_function(Icu* list , int i)
 {
   cout << "ICU's name: " << list[i].name << "\n";
   cout << "ICU code: " << list[i].icuCode << "\n";
@@ -168,7 +168,7 @@ void displayIcuInfo(Icu* list , int i)
   cout << "number of beds in the Icu: " <<list[i].bed << "\n";
 }
 
-void addPatient(int Icu_num)
+void addPatient_function(int Icu_num)
 {
      char answer;
      patient* ppatient = new patient();
@@ -218,25 +218,25 @@ static void printPatient(patient* p)
      /* print the passed patient's name */
      cout << "-" << p->name << "\n";
 }
-void viewPatientList(int Icu_num)
+void viewPatientList_function(int Icu_num)
 {
      /* traverse the stack to print the name of each patient in the stack of patients in the Icu */
      IcuList[Icu_num].patientsList.TraverseQueue(&printPatient);
 }
 
-void servicePatient_stack(int Icu_num , int doctor_num , int hours)
+void servicePatient_stack_function(int Icu_num , int doctor_num , int hours)
 {
      /* function to document that the patient in (Icu_num) is visited for (N hours) by the doctor (doctor_num) */
      doctorsList[doctor_num].listOfPatients.push_back(std::make_pair(IcuList[Icu_num].patientsList.dequeue() , hours));
 }
 
-void servicePatient_heap(int Icu_num , int doctor_num , int hours)
+void servicePatient_heap_function(int Icu_num , int doctor_num , int hours)
 {
      /* function to document that the patient in (Icu_num) is visited for (N hours) by the doctor (doctor_num) */
      doctorsList[doctor_num].listOfPatients.push_back(std::make_pair(IcuList[Icu_num].patientsPriorityList.extract() , hours));
 }
 
-void displayFullPatientInfo(patient* ppatient)
+void displayFullPatientInfo_function(patient* ppatient)
 {
      char answer;
      /* displaying all the info for this patient */

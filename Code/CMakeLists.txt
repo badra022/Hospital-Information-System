@@ -38,6 +38,18 @@ if(ANDROID)
     heap.h
     mainwindow.h
     mainwindow.ui
+    addnewpatient.cpp
+    addnewpatient.h
+    addnewpatient.ui
+    addnewdoctor.cpp
+    addnewdoctor.h
+    addnewdoctor.ui
+    addnewicu.cpp
+    addnewicu.h
+    addnewicu.ui
+    addnewprescription.cpp
+    addnewprescription.h
+    addnewprescription.ui
   )
 else()
   add_executable(Code
@@ -51,6 +63,18 @@ else()
     heap.h
     mainwindow.h
     mainwindow.ui
+    addnewpatient.cpp
+    addnewpatient.h
+    addnewpatient.ui
+    addnewdoctor.cpp
+    addnewdoctor.h
+    addnewdoctor.ui
+    addnewicu.cpp
+    addnewicu.h
+    addnewicu.ui
+    addnewprescription.cpp
+    addnewprescription.h
+    addnewprescription.ui
   )
 endif()
 

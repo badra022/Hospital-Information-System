@@ -15,6 +15,15 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_actionnewPatient_triggered();
+
+    void on_actionnewDoctor_triggered();
+
+    void on_actionnewIcu_triggered();
+
+    void on_actionnewPrescription_triggered();
+
 private:
     Ui::MainWindow *ui;
 };

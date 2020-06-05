@@ -116,6 +116,42 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.ui">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.ui">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.ui">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.ui">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp">
 			<Option target="Code"/>
 		</Unit>

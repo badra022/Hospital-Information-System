@@ -6,6 +6,46 @@
 
 #IncludeRegexTransform: 
 
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.cpp
+addnewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
+ui_addnewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewdoctor.h
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
+QDialog
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.cpp
+addnewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
+ui_addnewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewicu.h
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
+QDialog
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.cpp
+addnewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
+ui_addnewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewpatient.h
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
+QDialog
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.cpp
+addnewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+ui_addnewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewprescription.h
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+QDialog
+-
+
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 database.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.h
@@ -26,6 +66,12 @@ heap.cpp
 iterator
 -
 algorithm
+-
+mainwindow.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+QApplication
+-
+QDebug
 -
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/heap.cpp
@@ -51,6 +97,16 @@ mainwindow.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
 ./ui_mainwindow.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/./ui_mainwindow.h
+database.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.h
+addnewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
+addnewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
+addnewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
+addnewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
 QMainWindow
@@ -64,6 +120,46 @@ queue.h
 iostream
 -
 
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewdoctor.cpp
+memory
+-
+../../../Code/addnewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewicu.cpp
+memory
+-
+../../../Code/addnewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewpatient.cpp
+memory
+-
+../../../Code/addnewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewprescription.cpp
+memory
+-
+../../../Code/addnewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_mainwindow.cpp
 memory
 -
@@ -75,8 +171,20 @@ QtCore/qmetatype.h
 -
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/mocs_compilation.cpp
+EWIEGA46WW/moc_addnewdoctor.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewdoctor.cpp
+EWIEGA46WW/moc_addnewicu.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewicu.cpp
+EWIEGA46WW/moc_addnewpatient.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewpatient.cpp
+EWIEGA46WW/moc_addnewprescription.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewprescription.cpp
 EWIEGA46WW/moc_mainwindow.cpp
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_mainwindow.cpp
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
+qdebug.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdebug.h
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
 qvariant.h
@@ -1146,17 +1254,33 @@ QtGui/qwindowdefs_win.h
 QtGui/qtguiglobal.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QAction
+qaction.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qaction.h
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
 qapplication.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+qdialog.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
 qmainwindow.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMenu
+qmenu.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmenu.h
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMenuBar
 qmenubar.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmenubar.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+qpushbutton.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QStatusBar
 qstatusbar.h
@@ -1165,6 +1289,16 @@ qstatusbar.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
 qwidget.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtGui/qicon.h
+-
+QtGui/qkeysequence.h
+-
+QtWidgets/qwidget.h
+-
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qaction.h
 QtWidgets/qtwidgetsglobal.h
@@ -1212,6 +1346,12 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qwidget.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1236,6 +1376,12 @@ QtWidgets/qaction.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qmenu.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
 -
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
@@ -1303,14 +1449,52 @@ QtGui/qevent.h
 Code_autogen/include/./ui_mainwindow.h
 QtCore/QVariant
 -
+QtWidgets/QAction
+-
 QtWidgets/QApplication
 -
 QtWidgets/QMainWindow
 -
+QtWidgets/QMenu
+-
 QtWidgets/QMenuBar
+-
+QtWidgets/QPushButton
 -
 QtWidgets/QStatusBar
 -
 QtWidgets/QWidget
+-
+
+Code_autogen/include/ui_addnewdoctor.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+
+Code_autogen/include/ui_addnewicu.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+
+Code_autogen/include/ui_addnewpatient.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+
+Code_autogen/include/ui_addnewprescription.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
 -
 

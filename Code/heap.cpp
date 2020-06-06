@@ -18,6 +18,15 @@
  *                              DEFINITIONS
  * **********************************************************************/
 template< typename T >
+void pQueue<T>::traverseHeap(void(*pf)(T value))
+{
+    for(int i = data.begin() ; i != data.end() ; i++)
+    {
+        pf(data[i]);
+    }
+}
+
+template< typename T >
 size_t pQueue < T >::size() const
 {
     return data.size();

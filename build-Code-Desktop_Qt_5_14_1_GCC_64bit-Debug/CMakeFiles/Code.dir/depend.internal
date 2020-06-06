@@ -6,7 +6,13 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.h
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/heap.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/queue.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
@@ -22,6 +28,7 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewpatient.cpp
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewprescription.cpp
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/mocs_compilation.cpp
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
@@ -1055,6 +1062,7 @@ CMakeFiles/Code.dir/mainwindow.cpp.o
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/heap.cpp
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/heap.h
@@ -1399,6 +1407,7 @@ CMakeFiles/Code.dir/viewicu.cpp.o
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -1450,6 +1459,7 @@ CMakeFiles/Code.dir/viewicu.cpp.o
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
@@ -1500,19 +1510,45 @@ CMakeFiles/Code.dir/viewicu.cpp.o
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpacerItem
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
@@ -1528,8 +1564,10 @@ CMakeFiles/Code.dir/viewpatient.cpp.o
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/queue.h
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+ /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -1581,6 +1619,7 @@ CMakeFiles/Code.dir/viewpatient.cpp.o
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
@@ -1631,19 +1670,46 @@ CMakeFiles/Code.dir/viewpatient.cpp.o
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QRadioButton
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qradiobutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
@@ -1661,6 +1727,7 @@ CMakeFiles/Code.dir/viewprescription.cpp.o
  /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -1712,6 +1779,7 @@ CMakeFiles/Code.dir/viewprescription.cpp.o
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
@@ -1762,19 +1830,44 @@ CMakeFiles/Code.dir/viewprescription.cpp.o
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+ /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
  /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h

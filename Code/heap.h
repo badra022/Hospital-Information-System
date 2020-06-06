@@ -27,6 +27,7 @@ template< typename T >
 class pQueue
 {
 public:
+    void traverseHeap(void(*pf)(T value));
     size_t size() const;
     void insert(T value);
     T extract();

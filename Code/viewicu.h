@@ -16,6 +16,9 @@ public:
     explicit viewIcu(QWidget *parent = nullptr);
     ~viewIcu();
 
+private slots:
+    void on_pushButton_2_clicked();
+
 private:
     Ui::viewIcu *ui;
 };

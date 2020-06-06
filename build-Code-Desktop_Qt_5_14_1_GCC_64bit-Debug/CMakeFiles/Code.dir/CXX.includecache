@@ -181,14 +181,16 @@ viewpatient.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
 ui_viewpatient.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_viewpatient.h
-database.cpp
-/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
 QDialog
 -
 QMessageBox
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
+viewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp
 viewprescription.h
@@ -1526,6 +1528,10 @@ qmessagebox.h
 qpushbutton.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QRadioButton
+qradiobutton.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qradiobutton.h
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpacerItem
 qlayoutitem.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
@@ -1757,6 +1763,12 @@ QtWidgets/qdialog.h
 -
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qradiobutton.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qabstractbutton.h
@@ -2041,7 +2053,21 @@ QtCore/QVariant
 -
 QtWidgets/QApplication
 -
+QtWidgets/QComboBox
+-
 QtWidgets/QDialog
+-
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QSpacerItem
+-
+QtWidgets/QVBoxLayout
 -
 
 Code_autogen/include/ui_viewpatient.h
@@ -2049,7 +2075,21 @@ QtCore/QVariant
 -
 QtWidgets/QApplication
 -
+QtWidgets/QComboBox
+-
 QtWidgets/QDialog
+-
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QRadioButton
+-
+QtWidgets/QVBoxLayout
 -
 
 Code_autogen/include/ui_viewprescription.h
@@ -2057,7 +2097,19 @@ QtCore/QVariant
 -
 QtWidgets/QApplication
 -
+QtWidgets/QComboBox
+-
 QtWidgets/QDialog
+-
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QVBoxLayout
 -
 
 Code_autogen/include/ui_whichicu.h

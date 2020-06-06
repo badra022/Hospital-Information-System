@@ -3,7 +3,8 @@
 
 #include <QDialog>
 #include "QMessageBox"
-
+#include "database.cpp"
+#include "viewprescription.h"
 
 namespace Ui {
 class viewPatient;
@@ -15,7 +16,14 @@ class viewPatient : public QDialog
 
 public:
     explicit viewPatient(QWidget *parent = nullptr);
+    void printElement_queue(patient*);
+    void printElement_heap(patient*);
     ~viewPatient();
+
+private slots:
+    void on_pushButton_clicked();
+
+    void on_pushButton_2_clicked();
 
 private:
     Ui::viewPatient *ui;

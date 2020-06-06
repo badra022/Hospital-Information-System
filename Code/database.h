@@ -45,21 +45,21 @@ class patient
 {
     public:
         /* perosnal information of the patient*/
-        string name;
+        QString name;
         long long ID;
-        string address;
-        string phone;
-        string birthDate;
+        QString address;
+        QString phone;
+        QString birthDate;
         /* medical information of the patient*/
-        string gender;
-        string medicalHistory;
-        string allergies;
+        QString gender;
+        QString medicalHistory;
+        QString allergies;
         /* medical status measurements */
         struct
         {
-            double bloodPressure;
-            double heartRate;
-            double temperature;
+            QString bloodPressure;
+            QString heartRate;
+            QString temperature;
         }medicalStatus;
         /* public methods for the patient */
         /* methods displays the drugs taken by this patient in N days */
@@ -72,16 +72,16 @@ class Icu
 {
     public:
     /* Icus info */
-        string name;
-        long long icuCode;
-        string manager;
+        QString name;
+        QString icuCode;
+        QString manager;
         /* Number of beds available */
-        int bed;
+        long bed;
         /* list of the patients either FIFO or HEAP */
         queue <patient* > patientsList;
         pQueue <patient* > patientsPriorityList;
         /* constructor for the Icu's object */
-        Icu();
+        Icu(){this->name = "null";}
         /* method for displaying the patient's list */
         void displayPatients_stack();
         void displayPatients_heap();
@@ -92,16 +92,16 @@ class doctor
 {
 public:
         /* personal info of the doctor */
-        string name;
-        string gender;
-        string birthDate;
-        string socialSecurityNumber;
-        string majorScientificArea;
-        string degree;
+        QString name;
+        QString gender;
+        QString birthDate;
+        QString socialSecurityNumber;
+        QString majorScientificArea;
+        QString degree;
         /* list of his patients in the Icus*/
         std::vector < std::pair < patient* , int /*hours*/ > > listOfPatients;
         /* constructor for the doctor's object */
-        doctor();
+        doctor(){this-> name = "null";}
         /* method to display his list of patients */
         void displayPatients();
 };
@@ -116,10 +116,10 @@ struct prescription
      /* the code that the prescription must contain */
      long long code;
      /* start date and end date (not able for operations , just for display*/
-     string startDate;
-     string endDate;
+     QString startDate;
+     QString endDate;
      /* list of each 'string' drug with it's repetitions integer per day (X days if you want the repetitions in some days)*/
-     map <string , int> drugsList;
+     map <QString , int> drugsList;
 };
 
 

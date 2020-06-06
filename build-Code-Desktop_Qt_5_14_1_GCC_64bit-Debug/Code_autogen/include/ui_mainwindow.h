@@ -28,17 +28,22 @@ public:
     QAction *actionnewDoctor;
     QAction *actionnewIcu;
     QAction *actionnewPrescription;
+    QAction *actionpatients;
+    QAction *actiondoctors;
+    QAction *actionicus;
+    QAction *actionprescriptions;
     QWidget *centralwidget;
     QPushButton *pushButton_2;
     QMenuBar *menubar;
     QMenu *menuNew;
+    QMenu *menuview;
     QStatusBar *statusbar;
 
     void setupUi(QMainWindow *MainWindow)
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QString::fromUtf8("MainWindow"));
-        MainWindow->resize(800, 600);
+        MainWindow->resize(412, 167);
         actionnewPatient = new QAction(MainWindow);
         actionnewPatient->setObjectName(QString::fromUtf8("actionnewPatient"));
         actionnewDoctor = new QAction(MainWindow);
@@ -47,27 +52,42 @@ public:
         actionnewIcu->setObjectName(QString::fromUtf8("actionnewIcu"));
         actionnewPrescription = new QAction(MainWindow);
         actionnewPrescription->setObjectName(QString::fromUtf8("actionnewPrescription"));
+        actionpatients = new QAction(MainWindow);
+        actionpatients->setObjectName(QString::fromUtf8("actionpatients"));
+        actiondoctors = new QAction(MainWindow);
+        actiondoctors->setObjectName(QString::fromUtf8("actiondoctors"));
+        actionicus = new QAction(MainWindow);
+        actionicus->setObjectName(QString::fromUtf8("actionicus"));
+        actionprescriptions = new QAction(MainWindow);
+        actionprescriptions->setObjectName(QString::fromUtf8("actionprescriptions"));
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         pushButton_2 = new QPushButton(centralwidget);
         pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
-        pushButton_2->setGeometry(QRect(680, 520, 89, 25));
+        pushButton_2->setGeometry(QRect(310, 90, 89, 25));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
-        menubar->setGeometry(QRect(0, 0, 800, 22));
+        menubar->setGeometry(QRect(0, 0, 412, 22));
         menuNew = new QMenu(menubar);
         menuNew->setObjectName(QString::fromUtf8("menuNew"));
+        menuview = new QMenu(menubar);
+        menuview->setObjectName(QString::fromUtf8("menuview"));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
         MainWindow->setStatusBar(statusbar);
 
         menubar->addAction(menuNew->menuAction());
+        menubar->addAction(menuview->menuAction());
         menuNew->addAction(actionnewPatient);
         menuNew->addAction(actionnewDoctor);
         menuNew->addAction(actionnewIcu);
         menuNew->addAction(actionnewPrescription);
+        menuview->addAction(actionpatients);
+        menuview->addAction(actiondoctors);
+        menuview->addAction(actionicus);
+        menuview->addAction(actionprescriptions);
 
         retranslateUi(MainWindow);
         QObject::connect(pushButton_2, SIGNAL(clicked()), MainWindow, SLOT(close()));
@@ -82,8 +102,13 @@ public:
         actionnewDoctor->setText(QCoreApplication::translate("MainWindow", "newDoctor", nullptr));
         actionnewIcu->setText(QCoreApplication::translate("MainWindow", "newIcu", nullptr));
         actionnewPrescription->setText(QCoreApplication::translate("MainWindow", "newPrescription", nullptr));
+        actionpatients->setText(QCoreApplication::translate("MainWindow", "patients", nullptr));
+        actiondoctors->setText(QCoreApplication::translate("MainWindow", "doctors", nullptr));
+        actionicus->setText(QCoreApplication::translate("MainWindow", "icus", nullptr));
+        actionprescriptions->setText(QCoreApplication::translate("MainWindow", "prescriptions", nullptr));
         pushButton_2->setText(QCoreApplication::translate("MainWindow", "Exit", nullptr));
         menuNew->setTitle(QCoreApplication::translate("MainWindow", "New", nullptr));
+        menuview->setTitle(QCoreApplication::translate("MainWindow", "view", nullptr));
     } // retranslateUi
 
 };

@@ -6,12 +6,22 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/whichicu.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_addnewdoctor.cpp
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_addnewicu.cpp
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_addnewpatient.cpp
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_addnewprescription.cpp
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_mainwindow.cpp
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_viewdoctor.cpp
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_viewicu.cpp
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_viewpatient.cpp
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/EWIEGA46WW/moc_viewprescription.cpp
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/mocs_compilation.cpp
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -28,9 +38,11 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gc
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainerfwd.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainertools_impl.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontiguouscache.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreapplication.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreevent.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdatastream.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdebug.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qeventloop.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfile.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfiledevice.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qflags.h
@@ -92,19 +104,25 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gc
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfont.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qmatrix.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
@@ -112,18 +130,47 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gc
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
+CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/include/ui_whichicu.h
 
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.cpp
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
@@ -208,6 +255,7 @@ CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGu
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
@@ -215,12 +263,16 @@ CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGu
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
@@ -230,10 +282,32 @@ CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGu
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/addnewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
@@ -241,6 +315,14 @@ CMakeFiles/Code.dir/addnewdoctor.cpp.o: Code_autogen/include/ui_addnewdoctor.h
 
 CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewicu.cpp
 CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/addnewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
@@ -325,6 +407,7 @@ CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/q
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
@@ -332,12 +415,16 @@ CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/q
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
@@ -347,10 +434,33 @@ CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/q
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpacerItem
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/addnewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
@@ -358,7 +468,17 @@ CMakeFiles/Code.dir/addnewicu.cpp.o: Code_autogen/include/ui_addnewicu.h
 
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewpatient.cpp
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/whichicu.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -410,6 +530,7 @@ CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtC
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
@@ -442,6 +563,7 @@ CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtG
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
@@ -449,33 +571,80 @@ CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtG
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
 CMakeFiles/Code.dir/addnewpatient.cpp.o: Code_autogen/include/ui_addnewpatient.h
+CMakeFiles/Code.dir/addnewpatient.cpp.o: Code_autogen/include/ui_whichicu.h
 
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewprescription.cpp
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -527,6 +696,7 @@ CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/includ
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
@@ -559,6 +729,7 @@ CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/includ
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
@@ -566,25 +737,64 @@ CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/includ
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpinBox
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qspinbox.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
+CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/addnewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
@@ -716,6 +926,7 @@ CMakeFiles/Code.dir/database.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidget
 CMakeFiles/Code.dir/heap.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
 CMakeFiles/Code.dir/heap.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
 
+CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
 CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
 CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
 CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
@@ -850,6 +1061,11 @@ CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assi
 CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
 CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/whichicu.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
@@ -943,12 +1159,16 @@ CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
@@ -959,21 +1179,34 @@ CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QAction
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMenu
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMenuBar
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QStatusBar
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qaction.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qactiongroup.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmenu.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmenubar.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstatusbar.h
@@ -982,7 +1215,568 @@ CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidg
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: Code_autogen/include/./ui_mainwindow.h
+CMakeFiles/Code.dir/mainwindow.cpp.o: Code_autogen/include/ui_whichicu.h
 
 CMakeFiles/Code.dir/queue.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
 CMakeFiles/Code.dir/queue.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_bootstrap.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_cxx11.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_msvc.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbasicatomic.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearray.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearraylist.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qchar.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcompilerdetection.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig-bootstrapped.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainerfwd.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainertools_impl.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontiguouscache.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreapplication.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreevent.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdatastream.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdebug.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qeventloop.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfile.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfiledevice.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qflags.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qgenericatomic.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobal.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobalstatic.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhash.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhashfunctions.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiodevice.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiterator.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qline.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlist.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlocale.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlogging.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmap.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmargins.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmetatype.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmutex.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnamespace.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnumeric.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject_impl.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs_impl.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpair.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpoint.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qprocessordetection.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer_impl.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsize.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstring.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringalgorithms.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringbuilder.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringlist.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringliteral.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringmatcher.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringview.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsysinfo.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsystemdetection.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtcore-config.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtextstream.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtypeinfo.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurl.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurlquery.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvariant.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvarlengtharray.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvector.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qversiontagging.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qbrush.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcolor.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcursor.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qevent.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfont.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qmatrix.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpacerItem
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpinBox
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractbutton.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qspinbox.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
+CMakeFiles/Code.dir/viewdoctor.cpp.o: Code_autogen/include/ui_viewdoctor.h
+
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_bootstrap.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_cxx11.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_msvc.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbasicatomic.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearray.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearraylist.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qchar.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcompilerdetection.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig-bootstrapped.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainerfwd.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainertools_impl.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontiguouscache.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreapplication.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreevent.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdatastream.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdebug.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qeventloop.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfile.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfiledevice.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qflags.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qgenericatomic.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobal.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobalstatic.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhash.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhashfunctions.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiodevice.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiterator.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qline.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlist.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlocale.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlogging.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmap.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmargins.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmetatype.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmutex.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnamespace.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnumeric.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject_impl.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs_impl.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpair.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpoint.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qprocessordetection.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer_impl.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsize.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstring.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringalgorithms.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringbuilder.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringlist.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringliteral.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringmatcher.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringview.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsysinfo.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsystemdetection.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtcore-config.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtextstream.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtypeinfo.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurl.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurlquery.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvariant.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvarlengtharray.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvector.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qversiontagging.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qbrush.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcolor.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcursor.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qevent.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfont.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qmatrix.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
+CMakeFiles/Code.dir/viewicu.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
+CMakeFiles/Code.dir/viewicu.cpp.o: Code_autogen/include/ui_viewicu.h
+
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_bootstrap.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_cxx11.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_msvc.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbasicatomic.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearray.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearraylist.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qchar.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcompilerdetection.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig-bootstrapped.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainerfwd.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainertools_impl.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontiguouscache.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreapplication.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreevent.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdatastream.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdebug.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qeventloop.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfile.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfiledevice.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qflags.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qgenericatomic.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobal.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobalstatic.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhash.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhashfunctions.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiodevice.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiterator.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qline.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlist.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlocale.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlogging.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmap.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmargins.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmetatype.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmutex.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnamespace.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnumeric.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject_impl.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs_impl.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpair.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpoint.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qprocessordetection.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer_impl.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsize.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstring.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringalgorithms.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringbuilder.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringlist.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringliteral.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringmatcher.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringview.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsysinfo.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsystemdetection.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtcore-config.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtextstream.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtypeinfo.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurl.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurlquery.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvariant.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvarlengtharray.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvector.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qversiontagging.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qbrush.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcolor.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcursor.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qevent.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfont.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qmatrix.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
+CMakeFiles/Code.dir/viewpatient.cpp.o: Code_autogen/include/ui_viewpatient.h
+
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.cpp
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/database.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.cpp
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/heap.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.cpp
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/queue.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_bootstrap.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_cxx11.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic_msvc.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbasicatomic.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearray.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qbytearraylist.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qchar.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcompilerdetection.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig-bootstrapped.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qconfig.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainerfwd.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontainertools_impl.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcontiguouscache.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreapplication.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qcoreevent.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdatastream.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qdebug.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qeventloop.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfile.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qfiledevice.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qflags.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qgenericatomic.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobal.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qglobalstatic.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhash.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qhashfunctions.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiodevice.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qiterator.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qline.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlist.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlocale.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qlogging.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmap.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmargins.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmetatype.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qmutex.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnamespace.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qnumeric.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobject_impl.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qobjectdefs_impl.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpair.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qpoint.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qprocessordetection.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrect.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qrefcount.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregexp.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qset.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qshareddata.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsharedpointer_impl.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsize.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstring.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringalgorithms.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringbuilder.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringlist.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringliteral.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringmatcher.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qstringview.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsysinfo.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qsystemdetection.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtcore-config.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtextstream.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qtypeinfo.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurl.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qurlquery.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvariant.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvarlengtharray.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvector.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qversiontagging.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qbrush.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcolor.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qcursor.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qevent.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfont.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontinfo.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qfontmetrics.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qguiapplication.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qicon.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qimage.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qinputmethod.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qkeysequence.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qmatrix.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpaintdevice.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpainterpath.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpalette.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixmap.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpolygon.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qregion.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgb.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qrgba64.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtouchdevice.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtransform.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qwindowdefs_win.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QApplication
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabwidget.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgets-config.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
+CMakeFiles/Code.dir/viewprescription.cpp.o: Code_autogen/include/ui_viewprescription.h
 

@@ -5,6 +5,10 @@
 #include "addnewdoctor.h"
 #include "addnewicu.h"
 #include "addnewprescription.h"
+#include "viewdoctor.h"
+#include "viewicu.h"
+#include "viewpatient.h"
+#include "viewprescription.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -43,6 +47,38 @@ void MainWindow::on_actionnewIcu_triggered()
 void MainWindow::on_actionnewPrescription_triggered()
 {
     addNewPrescription _pre;
+    _pre.setModal(true);
+    _pre.exec();
+}
+
+void MainWindow::on_actionpatients_triggered()
+{
+    viewPatient _patient;
+    _patient.setModal(true);
+    _patient.exec();
+}
+
+void MainWindow::on_actiondoctors_triggered()
+{
+    viewDoctor _doctor;
+    _doctor.setModal(true);
+    _doctor.exec();
+}
+
+
+
+void MainWindow::on_actionicus_triggered()
+{
+    viewIcu _icu;
+    _icu.setModal(true);
+    _icu.exec();
+}
+
+
+
+void MainWindow::on_actionprescriptions_triggered()
+{
+    viewprescription _pre;
     _pre.setModal(true);
     _pre.exec();
 }

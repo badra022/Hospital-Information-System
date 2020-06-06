@@ -182,6 +182,42 @@
 		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/queue.h">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.ui">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.ui">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.ui">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.ui">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/mocs_compilation.cpp">
 			<Option target="Code"/>
 		</Unit>

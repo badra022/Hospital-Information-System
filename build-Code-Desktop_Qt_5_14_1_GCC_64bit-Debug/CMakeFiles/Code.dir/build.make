@@ -273,9 +273,105 @@ CMakeFiles/Code.dir/addnewprescription.cpp.o.provides: CMakeFiles/Code.dir/addne
 CMakeFiles/Code.dir/addnewprescription.cpp.o.provides.build: CMakeFiles/Code.dir/addnewprescription.cpp.o
 
 
+CMakeFiles/Code.dir/viewdoctor.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/viewdoctor.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Code.dir/viewdoctor.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/viewdoctor.cpp.o -c "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp"
+
+CMakeFiles/Code.dir/viewdoctor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/viewdoctor.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp" > CMakeFiles/Code.dir/viewdoctor.cpp.i
+
+CMakeFiles/Code.dir/viewdoctor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/viewdoctor.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp" -o CMakeFiles/Code.dir/viewdoctor.cpp.s
+
+CMakeFiles/Code.dir/viewdoctor.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/viewdoctor.cpp.o.requires
+
+CMakeFiles/Code.dir/viewdoctor.cpp.o.provides: CMakeFiles/Code.dir/viewdoctor.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewdoctor.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/viewdoctor.cpp.o.provides
+
+CMakeFiles/Code.dir/viewdoctor.cpp.o.provides.build: CMakeFiles/Code.dir/viewdoctor.cpp.o
+
+
+CMakeFiles/Code.dir/viewicu.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/viewicu.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Code.dir/viewicu.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/viewicu.cpp.o -c "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp"
+
+CMakeFiles/Code.dir/viewicu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/viewicu.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp" > CMakeFiles/Code.dir/viewicu.cpp.i
+
+CMakeFiles/Code.dir/viewicu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/viewicu.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp" -o CMakeFiles/Code.dir/viewicu.cpp.s
+
+CMakeFiles/Code.dir/viewicu.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/viewicu.cpp.o.requires
+
+CMakeFiles/Code.dir/viewicu.cpp.o.provides: CMakeFiles/Code.dir/viewicu.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewicu.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/viewicu.cpp.o.provides
+
+CMakeFiles/Code.dir/viewicu.cpp.o.provides.build: CMakeFiles/Code.dir/viewicu.cpp.o
+
+
+CMakeFiles/Code.dir/viewpatient.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/viewpatient.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Code.dir/viewpatient.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/viewpatient.cpp.o -c "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp"
+
+CMakeFiles/Code.dir/viewpatient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/viewpatient.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp" > CMakeFiles/Code.dir/viewpatient.cpp.i
+
+CMakeFiles/Code.dir/viewpatient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/viewpatient.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp" -o CMakeFiles/Code.dir/viewpatient.cpp.s
+
+CMakeFiles/Code.dir/viewpatient.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/viewpatient.cpp.o.requires
+
+CMakeFiles/Code.dir/viewpatient.cpp.o.provides: CMakeFiles/Code.dir/viewpatient.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewpatient.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/viewpatient.cpp.o.provides
+
+CMakeFiles/Code.dir/viewpatient.cpp.o.provides.build: CMakeFiles/Code.dir/viewpatient.cpp.o
+
+
+CMakeFiles/Code.dir/viewprescription.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/viewprescription.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Code.dir/viewprescription.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/viewprescription.cpp.o -c "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp"
+
+CMakeFiles/Code.dir/viewprescription.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/viewprescription.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp" > CMakeFiles/Code.dir/viewprescription.cpp.i
+
+CMakeFiles/Code.dir/viewprescription.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/viewprescription.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp" -o CMakeFiles/Code.dir/viewprescription.cpp.s
+
+CMakeFiles/Code.dir/viewprescription.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/viewprescription.cpp.o.requires
+
+CMakeFiles/Code.dir/viewprescription.cpp.o.provides: CMakeFiles/Code.dir/viewprescription.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewprescription.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/viewprescription.cpp.o.provides
+
+CMakeFiles/Code.dir/viewprescription.cpp.o.provides.build: CMakeFiles/Code.dir/viewprescription.cpp.o
+
+
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: Code_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o"
 	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o -c "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/mocs_compilation.cpp"
 
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.i: cmake_force
@@ -308,6 +404,10 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/addnewdoctor.cpp.o" \
 "CMakeFiles/Code.dir/addnewicu.cpp.o" \
 "CMakeFiles/Code.dir/addnewprescription.cpp.o" \
+"CMakeFiles/Code.dir/viewdoctor.cpp.o" \
+"CMakeFiles/Code.dir/viewicu.cpp.o" \
+"CMakeFiles/Code.dir/viewpatient.cpp.o" \
+"CMakeFiles/Code.dir/viewprescription.cpp.o" \
 "CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o"
 
 # External object files for target Code
@@ -322,13 +422,17 @@ Code: CMakeFiles/Code.dir/addnewpatient.cpp.o
 Code: CMakeFiles/Code.dir/addnewdoctor.cpp.o
 Code: CMakeFiles/Code.dir/addnewicu.cpp.o
 Code: CMakeFiles/Code.dir/addnewprescription.cpp.o
+Code: CMakeFiles/Code.dir/viewdoctor.cpp.o
+Code: CMakeFiles/Code.dir/viewicu.cpp.o
+Code: CMakeFiles/Code.dir/viewpatient.cpp.o
+Code: CMakeFiles/Code.dir/viewprescription.cpp.o
 Code: CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: /opt/Qt5.14.1/5.14.1/gcc_64/lib/libQt5Widgets.so.5.14.1
 Code: /opt/Qt5.14.1/5.14.1/gcc_64/lib/libQt5Gui.so.5.14.1
 Code: /opt/Qt5.14.1/5.14.1/gcc_64/lib/libQt5Core.so.5.14.1
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -345,6 +449,10 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/addnewpatient.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/addnewdoctor.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/addnewicu.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/addnewprescription.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/viewdoctor.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/viewicu.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/viewpatient.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/viewprescription.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires

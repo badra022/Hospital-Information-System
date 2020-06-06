@@ -2,6 +2,7 @@
 #define ADDNEWDOCTOR_H
 
 #include <QDialog>
+#include "QMessageBox"
 
 namespace Ui {
 class addNewDoctor;
@@ -14,6 +15,9 @@ class addNewDoctor : public QDialog
 public:
     explicit addNewDoctor(QWidget *parent = nullptr);
     ~addNewDoctor();
+
+private slots:
+    void on_pushButton_clicked();
 
 private:
     Ui::addNewDoctor *ui;

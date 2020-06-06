@@ -24,6 +24,14 @@ private slots:
 
     void on_actionnewPrescription_triggered();
 
+    void on_actionpatients_triggered();
+
+    void on_actiondoctors_triggered();
+
+    void on_actionicus_triggered();
+
+    void on_actionprescriptions_triggered();
+
 private:
     Ui::MainWindow *ui;
 };

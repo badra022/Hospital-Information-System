@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>412</width>
+    <height>167</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
-      <x>680</x>
-      <y>520</y>
+      <x>310</x>
+      <y>90</y>
       <width>89</width>
       <height>25</height>
      </rect>
@@ -33,7 +33,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>412</width>
      <height>22</height>
     </rect>
    </property>
@@ -46,7 +46,17 @@
     <addaction name="actionnewIcu"/>
     <addaction name="actionnewPrescription"/>
    </widget>
+   <widget class="QMenu" name="menuview">
+    <property name="title">
+     <string>view</string>
+    </property>
+    <addaction name="actionpatients"/>
+    <addaction name="actiondoctors"/>
+    <addaction name="actionicus"/>
+    <addaction name="actionprescriptions"/>
+   </widget>
    <addaction name="menuNew"/>
+   <addaction name="menuview"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
   <action name="actionnewPatient">
@@ -67,6 +77,26 @@
   <action name="actionnewPrescription">
    <property name="text">
     <string>newPrescription</string>
+   </property>
+  </action>
+  <action name="actionpatients">
+   <property name="text">
+    <string>patients</string>
+   </property>
+  </action>
+  <action name="actiondoctors">
+   <property name="text">
+    <string>doctors</string>
+   </property>
+  </action>
+  <action name="actionicus">
+   <property name="text">
+    <string>icus</string>
+   </property>
+  </action>
+  <action name="actionprescriptions">
+   <property name="text">
+    <string>prescriptions</string>
    </property>
   </action>
  </widget>

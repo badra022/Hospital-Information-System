@@ -50,6 +50,18 @@ if(ANDROID)
     addnewprescription.cpp
     addnewprescription.h
     addnewprescription.ui
+    viewdoctor.cpp
+    viewdoctor.h
+    viewdoctor.ui
+    viewicu.cpp
+    viewicu.h
+    viewicu.ui
+    viewpatient.cpp
+    viewpatient.h
+    viewpatient.ui
+    viewprescription.cpp
+    viewprescription.h
+    viewprescription.ui
   )
 else()
   add_executable(Code
@@ -75,6 +87,18 @@ else()
     addnewprescription.cpp
     addnewprescription.h
     addnewprescription.ui
+    viewdoctor.cpp
+    viewdoctor.h
+    viewdoctor.ui
+    viewicu.cpp
+    viewicu.h
+    viewicu.ui
+    viewpatient.cpp
+    viewpatient.h
+    viewpatient.ui
+    viewprescription.cpp
+    viewprescription.h
+    viewprescription.ui
   )
 endif()
 

@@ -13,15 +13,16 @@
 /*************************************************************************
  *                              INCLUDES
  * **********************************************************************/
-#include "database.h"
+#include "database.cpp"
 #include "mainwindow.h"
 #include <QApplication>
 /*************************************************************************
  *                   EXTERNS (main variables created in other file)
  ************************************************************************/
- extern queue <patient* > mainPatientList;
- extern Icu IcuList[N_ICU];
- extern doctor doctorsList[N_DOCTORS];
+ std::vector <patient* > mainPatientList;
+ std::vector <Icu*> IcuList;
+ std::vector <doctor*> doctorsList;
+ std::vector <prescription*> prescriptionList;
 /*************************************************************************
  *                              MAIN APPLICATION (GUI)
  * **********************************************************************/
@@ -30,5 +31,6 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
+    qDebug() << "welcome!";
     return a.exec();
 }

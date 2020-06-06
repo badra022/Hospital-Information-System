@@ -14,6 +14,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/main.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/main.cpp.o"
   "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/mainwindow.cpp.o"
   "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/queue.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/queue.cpp.o"
+  "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/viewdoctor.cpp.o"
+  "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/viewicu.cpp.o"
+  "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/viewpatient.cpp.o"
+  "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp" "/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir/viewprescription.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

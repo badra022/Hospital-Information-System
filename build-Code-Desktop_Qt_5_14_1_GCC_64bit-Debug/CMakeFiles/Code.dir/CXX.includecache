@@ -11,40 +11,60 @@ addnewdoctor.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
 ui_addnewdoctor.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewdoctor.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewdoctor.h
 QDialog
 -
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.cpp
 addnewicu.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
 ui_addnewicu.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewicu.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
 QDialog
 -
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.cpp
 addnewpatient.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
 ui_addnewpatient.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewpatient.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewpatient.h
 QDialog
 -
+whichicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/whichicu.h
+ui_whichicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_whichicu.h
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.cpp
 addnewprescription.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
 ui_addnewprescription.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_addnewprescription.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
 QDialog
 -
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 database.h
@@ -85,8 +105,8 @@ iostream
 -
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/main.cpp
-database.h
-/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
 mainwindow.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
 QApplication
@@ -107,6 +127,14 @@ addnewicu.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewicu.h
 addnewprescription.h
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/addnewprescription.h
+viewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+viewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+viewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+viewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/mainwindow.h
 QMainWindow
@@ -118,6 +146,66 @@ queue.h
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/queue.h
 iostream
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.cpp
+viewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+ui_viewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_viewdoctor.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+QDialog
+-
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.cpp
+viewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+ui_viewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_viewicu.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+QDialog
+-
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.cpp
+viewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+ui_viewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_viewpatient.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+QDialog
+-
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.cpp
+viewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
+ui_viewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/ui_viewprescription.h
+database.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/database.cpp
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
+QDialog
+-
+QMessageBox
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/QMessageBox
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/whichicu.h
+QDialog
 -
 
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewdoctor.cpp
@@ -170,6 +258,46 @@ QtCore/qbytearray.h
 QtCore/qmetatype.h
 -
 
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewdoctor.cpp
+memory
+-
+../../../Code/viewdoctor.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewdoctor.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewicu.cpp
+memory
+-
+../../../Code/viewicu.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewicu.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewpatient.cpp
+memory
+-
+../../../Code/viewpatient.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewpatient.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewprescription.cpp
+memory
+-
+../../../Code/viewprescription.h
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/Code/viewprescription.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/mocs_compilation.cpp
 EWIEGA46WW/moc_addnewdoctor.cpp
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewdoctor.cpp
@@ -181,6 +309,14 @@ EWIEGA46WW/moc_addnewprescription.cpp
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_addnewprescription.cpp
 EWIEGA46WW/moc_mainwindow.cpp
 /home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_mainwindow.cpp
+EWIEGA46WW/moc_viewdoctor.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewdoctor.cpp
+EWIEGA46WW/moc_viewicu.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewicu.cpp
+EWIEGA46WW/moc_viewpatient.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewpatient.cpp
+EWIEGA46WW/moc_viewprescription.cpp
+/home/badra069/Desktop/Projects and Assignments/HIS/Hospital-Information-System/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen/EWIEGA46WW/moc_viewprescription.cpp
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QDebug
 qdebug.h
@@ -189,6 +325,16 @@ qdebug.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/QVariant
 qvariant.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qvariant.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qabstractitemmodel.h
+QtCore/qvariant.h
+-
+QtCore/qobject.h
+-
+QtCore/qhash.h
+-
+QtCore/qvector.h
+-
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 QtCore/qglobal.h
@@ -654,6 +800,18 @@ QtCore/qatomic.h
 QtCore/qglobal.h
 -
 QtCore/qstring.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qregularexpression.h
+QtCore/qglobal.h
+-
+QtCore/qstring.h
+-
+QtCore/qstringlist.h
+-
+QtCore/qshareddata.h
+-
+QtCore/qvariant.h
 -
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qscopedpointer.h
@@ -1142,6 +1300,14 @@ QtGui/qcolor.h
 QtGui/qbrush.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpen.h
+QtGui/qtguiglobal.h
+-
+QtGui/qcolor.h
+-
+QtGui/qbrush.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qpixelformat.h
 QtGui/qtguiglobal.h
 -
@@ -1198,6 +1364,46 @@ QtGui/qtguiglobal.h
 QtCore/qprocessordetection.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextcursor.h
+QtGui/qtguiglobal.h
+-
+QtCore/qstring.h
+-
+QtCore/qshareddata.h
+-
+QtGui/qtextformat.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextformat.h
+QtGui/qtguiglobal.h
+-
+QtGui/qcolor.h
+-
+QtGui/qfont.h
+-
+QtCore/qshareddata.h
+-
+QtCore/qvector.h
+-
+QtCore/qvariant.h
+-
+QtGui/qpen.h
+-
+QtGui/qbrush.h
+-
+QtGui/qtextoption.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtextoption.h
+QtGui/qtguiglobal.h
+-
+QtCore/qnamespace.h
+-
+QtCore/qchar.h
+-
+QtCore/qmetatype.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtgui-config.h
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qtguiglobal.h
@@ -1232,6 +1438,20 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvalidator.h
+QtGui/qtguiglobal.h
+-
+QtCore/qobject.h
+-
+QtCore/qstring.h
+-
+QtCore/qregexp.h
+-
+QtCore/qregularexpression.h
+-
+QtCore/qlocale.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtGui/qvector2d.h
 QtGui/qtguiglobal.h
 -
@@ -1262,9 +1482,29 @@ qaction.h
 qapplication.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qapplication.h
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QComboBox
+qcombobox.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QDialog
 qdialog.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdialog.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QGroupBox
+qgroupbox.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QHBoxLayout
+qboxlayout.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLabel
+qlabel.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QLineEdit
+qlineedit.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMainWindow
 qmainwindow.h
@@ -1278,13 +1518,29 @@ qmenu.h
 qmenubar.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmenubar.h
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QMessageBox
+qmessagebox.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QPushButton
 qpushbutton.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpacerItem
+qlayoutitem.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QSpinBox
+qspinbox.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qspinbox.h
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QStatusBar
 qstatusbar.h
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstatusbar.h
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QVBoxLayout
+qboxlayout.h
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/QWidget
 qwidget.h
@@ -1298,6 +1554,28 @@ QtGui/qicon.h
 QtGui/qkeysequence.h
 -
 QtWidgets/qwidget.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qobject.h
+-
+QtWidgets/qstyleoption.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractslider.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qabstractspinbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+QtGui/qvalidator.h
 -
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qaction.h
@@ -1340,6 +1618,30 @@ QtWidgets/qdesktopwidget.h
 QtGui/qguiapplication.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qboxlayout.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qlayout.h
+-
+QtWidgets/qwidget.h
+-
+limits.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qcombobox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+QtWidgets/qabstractitemdelegate.h
+-
+QtCore/qabstractitemmodel.h
+-
+QtCore/qvariant.h
+-
+QtGui/qvalidator.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1350,6 +1652,76 @@ QtWidgets/qwidget.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qwidget.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qframe.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgridlayout.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qlayout.h
+-
+QtWidgets/qwidget.h
+-
+limits.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qgroupbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlabel.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayout.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qobject.h
+-
+QtWidgets/qlayoutitem.h
+-
+QtWidgets/qsizepolicy.h
+-
+QtCore/qrect.h
+-
+QtCore/qmargins.h
+-
+limits.h
+-
+QtWidgets/qboxlayout.h
+-
+QtWidgets/qgridlayout.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlayoutitem.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qsizepolicy.h
+-
+QtCore/qrect.h
+-
+limits.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qlineedit.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+QtGui/qtextcursor.h
+-
+QtCore/qstring.h
+-
+QtCore/qmargins.h
 -
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmainwindow.h
@@ -1378,10 +1750,22 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qmenu.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qmessagebox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qdialog.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qpushbutton.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qabstractbutton.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qrubberband.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
 -
 
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qsizepolicy.h
@@ -1392,7 +1776,71 @@ QtCore/qobject.h
 QtCore/qalgorithms.h
 -
 
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qslider.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractslider.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qspinbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractspinbox.h
+-
+
 /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstatusbar.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyle.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qobject.h
+-
+QtCore/qrect.h
+-
+QtCore/qsize.h
+-
+QtGui/qicon.h
+-
+QtGui/qpixmap.h
+-
+QtGui/qpalette.h
+-
+QtWidgets/qsizepolicy.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qstyleoption.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qlocale.h
+-
+QtCore/qvariant.h
+-
+QtWidgets/qabstractspinbox.h
+-
+QtGui/qicon.h
+-
+QtGui/qmatrix.h
+-
+QtWidgets/qslider.h
+-
+QtWidgets/qstyle.h
+-
+QtWidgets/qtabbar.h
+-
+QtWidgets/qtabwidget.h
+-
+QtWidgets/qrubberband.h
+-
+QtWidgets/qframe.h
+-
+QtCore/qabstractitemmodel.h
+-
+
+/opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtabbar.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qwidget.h
@@ -1473,6 +1921,20 @@ QtWidgets/QApplication
 -
 QtWidgets/QDialog
 -
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QVBoxLayout
+-
+QtWidgets/QWidget
+-
 
 Code_autogen/include/ui_addnewicu.h
 QtCore/QVariant
@@ -1481,13 +1943,45 @@ QtWidgets/QApplication
 -
 QtWidgets/QDialog
 -
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QSpacerItem
+-
+QtWidgets/QVBoxLayout
+-
+QtWidgets/QWidget
+-
 
 Code_autogen/include/ui_addnewpatient.h
 QtCore/QVariant
 -
 QtWidgets/QApplication
 -
+QtWidgets/QComboBox
+-
 QtWidgets/QDialog
+-
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QVBoxLayout
+-
+QtWidgets/QWidget
 -
 
 Code_autogen/include/ui_addnewprescription.h
@@ -1495,6 +1989,94 @@ QtCore/QVariant
 -
 QtWidgets/QApplication
 -
+QtWidgets/QComboBox
+-
 QtWidgets/QDialog
+-
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QSpinBox
+-
+QtWidgets/QVBoxLayout
+-
+QtWidgets/QWidget
+-
+
+Code_autogen/include/ui_viewdoctor.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QComboBox
+-
+QtWidgets/QDialog
+-
+QtWidgets/QGroupBox
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QSpacerItem
+-
+QtWidgets/QSpinBox
+-
+QtWidgets/QVBoxLayout
+-
+
+Code_autogen/include/ui_viewicu.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+
+Code_autogen/include/ui_viewpatient.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+
+Code_autogen/include/ui_viewprescription.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+
+Code_autogen/include/ui_whichicu.h
+QtCore/QVariant
+-
+QtWidgets/QApplication
+-
+QtWidgets/QDialog
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QVBoxLayout
+-
+QtWidgets/QWidget
 -
 

@@ -4,3 +4,7 @@
 #include "EWIEGA46WW/moc_addnewpatient.cpp"
 #include "EWIEGA46WW/moc_addnewprescription.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
+#include "EWIEGA46WW/moc_viewdoctor.cpp"
+#include "EWIEGA46WW/moc_viewicu.cpp"
+#include "EWIEGA46WW/moc_viewpatient.cpp"
+#include "EWIEGA46WW/moc_viewprescription.cpp"

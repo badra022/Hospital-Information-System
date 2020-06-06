@@ -406,6 +406,114 @@ queue.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/queue.cpp.s
 .PHONY : queue.cpp.s
 
+viewdoctor.o: viewdoctor.cpp.o
+
+.PHONY : viewdoctor.o
+
+# target to build an object file
+viewdoctor.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewdoctor.cpp.o
+.PHONY : viewdoctor.cpp.o
+
+viewdoctor.i: viewdoctor.cpp.i
+
+.PHONY : viewdoctor.i
+
+# target to preprocess a source file
+viewdoctor.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewdoctor.cpp.i
+.PHONY : viewdoctor.cpp.i
+
+viewdoctor.s: viewdoctor.cpp.s
+
+.PHONY : viewdoctor.s
+
+# target to generate assembly for a file
+viewdoctor.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewdoctor.cpp.s
+.PHONY : viewdoctor.cpp.s
+
+viewicu.o: viewicu.cpp.o
+
+.PHONY : viewicu.o
+
+# target to build an object file
+viewicu.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewicu.cpp.o
+.PHONY : viewicu.cpp.o
+
+viewicu.i: viewicu.cpp.i
+
+.PHONY : viewicu.i
+
+# target to preprocess a source file
+viewicu.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewicu.cpp.i
+.PHONY : viewicu.cpp.i
+
+viewicu.s: viewicu.cpp.s
+
+.PHONY : viewicu.s
+
+# target to generate assembly for a file
+viewicu.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewicu.cpp.s
+.PHONY : viewicu.cpp.s
+
+viewpatient.o: viewpatient.cpp.o
+
+.PHONY : viewpatient.o
+
+# target to build an object file
+viewpatient.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewpatient.cpp.o
+.PHONY : viewpatient.cpp.o
+
+viewpatient.i: viewpatient.cpp.i
+
+.PHONY : viewpatient.i
+
+# target to preprocess a source file
+viewpatient.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewpatient.cpp.i
+.PHONY : viewpatient.cpp.i
+
+viewpatient.s: viewpatient.cpp.s
+
+.PHONY : viewpatient.s
+
+# target to generate assembly for a file
+viewpatient.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewpatient.cpp.s
+.PHONY : viewpatient.cpp.s
+
+viewprescription.o: viewprescription.cpp.o
+
+.PHONY : viewprescription.o
+
+# target to build an object file
+viewprescription.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewprescription.cpp.o
+.PHONY : viewprescription.cpp.o
+
+viewprescription.i: viewprescription.cpp.i
+
+.PHONY : viewprescription.i
+
+# target to preprocess a source file
+viewprescription.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewprescription.cpp.i
+.PHONY : viewprescription.cpp.i
+
+viewprescription.s: viewprescription.cpp.s
+
+.PHONY : viewprescription.s
+
+# target to generate assembly for a file
+viewprescription.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/viewprescription.cpp.s
+.PHONY : viewprescription.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -446,6 +554,18 @@ help:
 	@echo "... queue.o"
 	@echo "... queue.i"
 	@echo "... queue.s"
+	@echo "... viewdoctor.o"
+	@echo "... viewdoctor.i"
+	@echo "... viewdoctor.s"
+	@echo "... viewicu.o"
+	@echo "... viewicu.i"
+	@echo "... viewicu.s"
+	@echo "... viewpatient.o"
+	@echo "... viewpatient.i"
+	@echo "... viewpatient.s"
+	@echo "... viewprescription.o"
+	@echo "... viewprescription.i"
+	@echo "... viewprescription.s"
 .PHONY : help
 
 
